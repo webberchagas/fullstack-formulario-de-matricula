@@ -8,7 +8,7 @@ fieldset {
   border: none;
 
   display: grid;
-  grid-area: 1.5rem;
+  gap: 1.5rem;
 }
 
 legend {
